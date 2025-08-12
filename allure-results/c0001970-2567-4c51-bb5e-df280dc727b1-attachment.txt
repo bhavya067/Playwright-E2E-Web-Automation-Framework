@@ -1,0 +1,3 @@
+Apple monitor 24
+ASUS Full HD
+[ 'Apple monitor 24', 'ASUS Full HD' ]

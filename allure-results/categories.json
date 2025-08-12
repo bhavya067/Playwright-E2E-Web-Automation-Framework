@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Product defects",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*AssertionError.*"
+  },
+  {
+    "name": "Automation bugs",
+    "matchedStatuses": ["broken"],
+    "traceRegex": ".*NullPointerException.*"
+  }
+]

@@ -1,0 +1,166 @@
+# Page snapshot
+
+```yaml
+- navigation:
+  - link "PRODUCT STORE":
+    - /url: index.html
+    - img
+    - text: PRODUCT STORE
+  - list:
+    - listitem:
+      - link "Home (current)":
+        - /url: index.html
+    - listitem:
+      - link "Contact":
+        - /url: "#"
+    - listitem:
+      - link "About us":
+        - /url: "#"
+    - listitem:
+      - link "Cart":
+        - /url: cart.html
+    - listitem:
+      - link "Log in":
+        - /url: "#"
+    - listitem
+    - listitem
+    - listitem:
+      - link "Sign up":
+        - /url: "#"
+  - list:
+    - listitem
+    - listitem
+    - listitem
+  - img "Second slide"
+  - button "Previous"
+  - button "Next"
+- link "CATEGORIES":
+  - /url: ""
+- link "Phones":
+  - /url: "#"
+- link "Laptops":
+  - /url: "#"
+- link "Monitors":
+  - /url: "#"
+- link:
+  - /url: prod.html?idp_=8
+- heading "Sony vaio i5" [level=4]:
+  - link "Sony vaio i5":
+    - /url: prod.html?idp_=8
+- heading "$790" [level=5]
+- paragraph: Sony is so confident that the VAIO S is a superior ultraportable laptop that the company proudly compares the notebook to Apple's 13-inch MacBook Pro. And in a lot of ways this notebook is better, thanks to a lighter weight.
+- link:
+  - /url: prod.html?idp_=9
+- heading "Sony vaio i7" [level=4]:
+  - link "Sony vaio i7":
+    - /url: prod.html?idp_=9
+- heading "$790" [level=5]
+- paragraph: REVIEW Sony is so confident that the VAIO S is a superior ultraportable laptop that the company proudly compares the notebook to Apple's 13-inch MacBook Pro. And in a lot of ways this notebook is better, thanks to a lighter weight, higher-resolution display, more storage space, and a Blu-ray drive.
+- link:
+  - /url: prod.html?idp_=11
+- heading "MacBook air" [level=4]:
+  - link "MacBook air":
+    - /url: prod.html?idp_=11
+- heading "$700" [level=5]
+- paragraph: 1.6GHz dual-core Intel Core i5 (Turbo Boost up to 2.7GHz) with 3MB shared L3 cache Configurable to 2.2GHz dual-core Intel Core i7 (Turbo Boost up to 3.2GHz) with 4MB shared L3 cache.
+- link:
+  - /url: prod.html?idp_=12
+- heading "Dell i7 8gb" [level=4]:
+  - link "Dell i7 8gb":
+    - /url: prod.html?idp_=12
+- heading "$700" [level=5]
+- paragraph: 6th Generation Intel Core i7-6500U Dual-Core Processor 2.5 GHz (max boost speed up to 3.1GHz) 4MB L3 Cache, 8GB DDR4 1600 MHz, 1TB 5400 RPM HDD15.6 in Full HD LED-backlit touchscreen with Truelife (1920 x 1080), 10-finger multi-touch support, Intel HD Graphics 520 with shared graphics memory
+- link:
+  - /url: prod.html?idp_=13
+- heading "2017 Dell 15.6 Inch" [level=4]:
+  - link "2017 Dell 15.6 Inch":
+    - /url: prod.html?idp_=13
+- heading "$700" [level=5]
+- paragraph: 7th Gen Intel Core i7-7500U mobile processor 2.70 GHz with Turbo Boost Technology up to 3.50 GHz, Intel HD Graphics 62015.6 inch Full HD IPS TrueLife LED-backlit touchscreen (1920 x 1080), 10-finger multi-touch support, 360° flip-and-fold design,8GB DDR4 2400 MHz Memory, 1TB 5400 RPM HDD, No optical drive, 3 in 1 card reader (SD SDHC SDXC)
+- link:
+  - /url: prod.html?idp_=15
+- heading "MacBook Pro" [level=4]:
+  - link "MacBook Pro":
+    - /url: prod.html?idp_=15
+- heading "$1100" [level=5]
+- paragraph: Apple has introduced three new versions of its MacBook Pro line, including a 13-inch and 15-inch model with the Touch Bar, a thin, multi-touch strip display that sits above the MacBook Pro's keyboard.
+- link:
+  - /url: prod.html?idp_=1
+- heading "Samsung galaxy s6" [level=4]:
+  - link "Samsung galaxy s6":
+    - /url: prod.html?idp_=1
+- heading "$360" [level=5]
+- paragraph: The Samsung Galaxy S6 is powered by 1.5GHz octa-core Samsung Exynos 7420 processor and it comes with 3GB of RAM. The phone packs 32GB of internal storage cannot be expanded.
+- link:
+  - /url: prod.html?idp_=2
+- heading "Nokia lumia 1520" [level=4]:
+  - link "Nokia lumia 1520":
+    - /url: prod.html?idp_=2
+- heading "$820" [level=5]
+- paragraph: The Nokia Lumia 1520 is powered by 2.2GHz quad-core Qualcomm Snapdragon 800 processor and it comes with 2GB of RAM.
+- link:
+  - /url: prod.html?idp_=3
+- heading "Nexus 6" [level=4]:
+  - link "Nexus 6":
+    - /url: prod.html?idp_=3
+- heading "$650" [level=5]
+- paragraph: The Motorola Google Nexus 6 is powered by 2.7GHz quad-core Qualcomm Snapdragon 805 processor and it comes with 3GB of RAM.
+- link:
+  - /url: prod.html?idp_=4
+- heading "Samsung galaxy s7" [level=4]:
+  - link "Samsung galaxy s7":
+    - /url: prod.html?idp_=4
+- heading "$800" [level=5]
+- paragraph: The Samsung Galaxy S7 is powered by 1.6GHz octa-core it comes with 4GB of RAM. The phone packs 32GB of internal storage that can be expanded up to 200GB via a microSD card.
+- link:
+  - /url: prod.html?idp_=5
+- heading "Iphone 6 32gb" [level=4]:
+  - link "Iphone 6 32gb":
+    - /url: prod.html?idp_=5
+- heading "$790" [level=5]
+- paragraph: It comes with 1GB of RAM. The phone packs 16GB of internal storage cannot be expanded. As far as the cameras are concerned, the Apple iPhone 6 packs a 8-megapixel primary camera on the rear and a 1.2-megapixel front shooter for selfies.
+- link:
+  - /url: prod.html?idp_=6
+- heading "Sony xperia z5" [level=4]:
+  - link "Sony xperia z5":
+    - /url: prod.html?idp_=6
+- heading "$320" [level=5]
+- paragraph: Sony Xperia Z5 Dual smartphone was launched in September 2015. The phone comes with a 5.20-inch touchscreen display with a resolution of 1080 pixels by 1920 pixels at a PPI of 424 pixels per inch.
+- link:
+  - /url: prod.html?idp_=7
+- heading "HTC One M9" [level=4]:
+  - link "HTC One M9":
+    - /url: prod.html?idp_=7
+- heading "$700" [level=5]
+- paragraph: The HTC One M9 is powered by 1.5GHz octa-core Qualcomm Snapdragon 810 processor and it comes with 3GB of RAM. The phone packs 32GB of internal storage that can be expanded up to 128GB via a microSD card.
+- link:
+  - /url: prod.html?idp_=8
+- heading "Sony vaio i5" [level=4]:
+  - link "Sony vaio i5":
+    - /url: prod.html?idp_=8
+- heading "$790" [level=5]
+- paragraph: Sony is so confident that the VAIO S is a superior ultraportable laptop that the company proudly compares the notebook to Apple's 13-inch MacBook Pro. And in a lot of ways this notebook is better, thanks to a lighter weight.
+- link:
+  - /url: prod.html?idp_=9
+- heading "Sony vaio i7" [level=4]:
+  - link "Sony vaio i7":
+    - /url: prod.html?idp_=9
+- heading "$790" [level=5]
+- paragraph: REVIEW Sony is so confident that the VAIO S is a superior ultraportable laptop that the company proudly compares the notebook to Apple's 13-inch MacBook Pro. And in a lot of ways this notebook is better, thanks to a lighter weight, higher-resolution display, more storage space, and a Blu-ray drive.
+- list:
+  - listitem:
+    - button "Previous"
+  - listitem:
+    - button "Next"
+- heading "About Us" [level=4]
+- paragraph: We believe performance needs to be validated at every stage of the software development cycle and our open source compatible, massively scalable platform makes that a reality.
+- heading "Get in Touch" [level=4]
+- paragraph: "Address: 2390 El Camino Real"
+- paragraph: "Phone: +440 123456"
+- paragraph: "Email: demo@blazemeter.com"
+- heading "PRODUCT STORE" [level=4]:
+  - img
+  - text: PRODUCT STORE
+- contentinfo:
+  - paragraph: Copyright © Product Store 2017
+```
